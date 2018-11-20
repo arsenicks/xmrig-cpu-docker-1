@@ -14,7 +14,7 @@ A docker container to easily deploy [xmrig](https://github.com/xmrig/xmrig).
 
 * `-o` - Your mining pool's url and port. *check with your mining pool for how to set this*
 * `-u` - Is your username.  *check with your mining pool for how to set this*
-* `-p` - This is the password for your account with your mining pool.  This is frequently just `-p x`.  *check with your mining pool for how to set this*
+* `-p` - This is the password for your account with your mining pool.  This is frequently just `-p x`.  *check with your mining pool for how to set this*.
 
 The list of options to set for xmrig is insaaaaaannnnnneeeeeeeeee check it out in their [README](https://github.com/xmrig/xmrig#usage) with some more in depth cpu options in their [WIKI](https://github.com/xmrig/xmrig/wiki/Threads).
 
