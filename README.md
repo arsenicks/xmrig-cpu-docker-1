@@ -1,6 +1,6 @@
 # xmrig-cpu-docker
 ----
-A docker container to easily deploy [xmrig](https://github.com/xmrig/xmrig).
+A docker container to easily deploy [xmrig](https://github.com/xmrig/xmrig)...
 
 ## Tags
 
